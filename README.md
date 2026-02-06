@@ -1,98 +1,95 @@
-<h1 align="center">Hi 👋, I'm Saksham</h1>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a192f&height=260&section=header&text=Hi,%20I'm%20Saksham&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Full-Stack Developer • CS Undergraduate (2023–2027)</h3>
 
 <p align="center">
-  Building scalable web systems with clean backend architecture and modern UIs
+  I build scalable web systems with clean backend architecture and modern UIs
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saksham012345&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=saksham012345&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Full-stack developer with hands-on experience in **RESTful systems**
+## 🧠 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+developer+focused+on+real-world+systems;Strong+in+DSA+and+backend+architecture;Comfortable+owning+features+end-to-end" />
+</p>
+
+- 💻 Hands-on experience building **RESTful systems**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🔧 Comfortable owning features end-to-end: **Backend APIs → UI → Testing**
-- 🏗️ Built **role-based, scalable web platforms**
-- 🎯 Interested in **health-tech, fintech & large-scale consumer systems**
+- 🧩 Backend APIs → UI → Testing → Iteration
+- 🏗️ Built **role-based, scalable platforms**
+- 🎯 Interested in **health-tech, fintech & large-scale systems**
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### 🧩 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 TrekTribe – Group Travel Platform
-**Tech:** MERN Stack  
-- Scalable REST APIs for trips, registrations, and verification workflows  
-- Role-based dashboards (Traveler, Organizer, Agent, Admin)  
-- Secure access control and modular backend architecture  
-
-### 🔹 LOLCHAIN – Meme-Based Mobile Dating App
-**Tech:** React, Node.js, MongoDB, Web3  
-- Mobile-first, touch-optimized UI  
-- Wallet-based authentication and permission logic  
-- Verification-focused flows to reduce fake profiles  
-
-### 🔹 NeuroTrack – AI-Powered Learning Tracker
-**Tech:** React, Node.js, Python, FAISS  
-- AI-generated summaries using embeddings and RAG  
-- Vector-based retrieval for personalized learning feedback  
-- Clean separation between AI services and backend  
-
-⬇️ See pinned repositories below ⬇️
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack (Curated, Not Noisy)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham012345&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,git,docker,postman&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧭 TrekTribe — Group Travel Platform
+**MERN Stack**
+- Scalable REST APIs for trips, registrations & verification
+- Role-based dashboards (Traveler, Organizer, Agent, Admin)
+- Secure access control & modular backend design
+
+### 😂 LOLCHAIN — Meme-Based Mobile Dating App
+**React • Node.js • MongoDB • Web3**
+- Mobile-first, touch-optimized UI
+- Wallet-based authentication & permissions
+- Trust & verification-focused flows
+
+### 🧠 NeuroTrack — AI Learning Tracker
+**React • Node.js • Python • FAISS**
+- AI-generated summaries using RAG
+- Vector-based semantic note retrieval
+- Clean separation of AI services & backend
+
+<p align="center"><b>⬇️ See pinned repositories below ⬇️</b></p>
+
+---
+
+## 📊 GitHub Activity (FIXED & STABLE)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham012345&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham012345&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham012345&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=saksham012345&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Open To
-- Software Engineering Internships  
-- Backend / Full-Stack Intern Roles  
-- Collaborative open-source projects  
+- Software Engineering Internships
+- Backend / Full-Stack Intern Roles
+- Meaningful open-source collaboration
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: tanejas404@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/saksham-taneja-43866a272/  
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-taneja-43866a272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:tanejas404@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
-⭐ Always learning. Always building.
+<p align="center">
+  <b>Always building. Always learning.</b>
+</p>
